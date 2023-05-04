@@ -1,11 +1,11 @@
 {
     "hotels": [
         {
-            "name": "name 1",
-            "image": "image 1",
-            "location": "location 1",
-            "price": 86,
-            "description": "description 1",
+            "name": "The Grand Hotel Scarborough",
+            "image": "https://lh6.googleusercontent.com/proxy/Ll33TMs8GzHPj4i91sKL4_mM4pnjGeqw_dBYHtDaAfzC9ZaTMneCYcx86zXEr14O6zycFw4M_ZJ_pH8K_337PRJd2GfX6JP7cXdeGxgaQtI2ONTBHykLT_VMEiKXUk414OeVv7HMSss_E3eyZLMm0SCYCG8iv9A=w253-h168-k-no",
+            "location": "United Kingdom",
+            "price": 499,
+            "description": "Overlooking South Bay and a 5-minute walk from The Rotunda Museum, this Victorian beachfront hotel is a mile from Scarborough Castle and 1.5 miles from the Scarborough Open Air Theatre.",
             "id": "1"
         },
         {
