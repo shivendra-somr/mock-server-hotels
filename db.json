@@ -9,43 +9,43 @@
             "id": "1"
         },
         {
-            "name": "name 2",
-            "image": "image 2",
-            "location": "location 2",
-            "price": 34,
-            "description": "description 2",
+            "name": "Le Maitre",
+            "image": "https://lh3.googleusercontent.com/proxy/U8tm2-K84x4_BfKLKLeKcIZNLBi7PzyetDa1dPUPYuunerMPf_JTUHnq3cKJ1VOjB6G9Y_5wgSI8CVWSREgH6YAaBjWhl8O8dhksK-M0ouvRLxU2pMe2fR1xkuHY-ksBT0gF8B6CL3hCt-AtOFMUSQ76N1roj4w=w325-h243-k-no",
+            "location": "Southport",
+            "price": 630,
+            "description": "Near Southport Theatre. With a stay at Le Maitre in Southport, you'll be within a 10-minute walk of Southport Pier and Genting Casino Southport. This guesthouse is 0.2 mi (0.3 km) from Southport Marine Lake",
             "id": "2"
         },
         {
-            "name": "name 3",
-            "image": "image 3",
-            "location": "location 3",
-            "price": 3,
-            "description": "description 3",
+            "name": "Mystique, a Luxury Collection Hotel, Santorini",
+            "image": "https://lh6.googleusercontent.com/proxy/S1ElJDaHM5cBzQtCIqP03TQnyGfeiZ_g90zzV9ciVf7FNyl6y0g1eWEmAmGIRe8RKVsmQdIT-uMnTlkypGjZhDcsHGyoGLC9N9iVj_Jga63pDc36GbgD_jeML5PU4DGA6U1OkQNPgEaw-oGNr5tgHX9zZ7V0NA=w253-h142-k-no",
+            "location": "Greece",
+            "price": 88000,
+            "description": "Set on a cliff overlooking the Santorini caldera in the Aegean Sea, this luxe hotel featuring traditional Cycladic architecture is a 14-minute walk from the village of Oia and 16 km from Santorini Airport.",
             "id": "3"
         },
         {
-            "name": "name 4",
-            "image": "image 4",
-            "location": "location 4",
-            "price": 47,
-            "description": "description 4",
+            "name": "Mandarin Oriental, Lago di Como",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipP26_WeD30BEcqQVW-HqPdIATrvUPOHzQR1jv3J=w253-h168-k-no",
+            "location": "Italy",
+            "price": 1249,
+            "description": "In a chic 18-century complex overlooking Lake Como, this seasonal high-end hotel is 6 km from Como Cathedral. Posh, plush rooms offer free Wi-Fi, flat-screen TVs and minibars.",
             "id": "4"
         },
         {
-            "name": "name 5",
-            "image": "image 5",
-            "location": "location 5",
-            "price": 71,
-            "description": "description 5",
+            "name": "Splendido Mare, A Belmond Hotel, Portofino",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOOdPrsJkpFDcnSjY0pXbFvKqBjmQdJwr1bQhxz=w253-h142-k-no",
+            "location": "Italy",
+            "price": 1199,
+            "description": "Set among shops housed in colorful traditional buildings, this elegant seasonal hotel lies next to Portofino harbor. It's a 10-minute walk from the museum at the 16th-century Castello Brown, and 6 km from the train station.",
             "id": "5"
         },
         {
-            "name": "name 6",
-            "image": "image 6",
-            "location": "location 6",
-            "price": 69,
-            "description": "description 6",
+            "name": "Aman Venice",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipNC0HPLE2fY9M9IYWYztggFxnrRV7D1fpXHEUzV=w253-h156-k-no",
+            "location": "Venice",
+            "price": 1899,
+            "description": "Beside the Grand Canal in a 16th-century palace, this elegant hotel is a 2-minute walk from both a vaporetto stop and the Piazza San Marco.",
             "id": "6"
         },
         {
