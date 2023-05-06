@@ -1,11 +1,25 @@
 {
+    "users":[
+        {
+            "id":1,
+            "username":"gaurav",
+            "email":"gauravraj2601@gmail.com",
+            "password":"gaurav123"
+        },
+        {
+            "id":2,
+            "username": "admin",
+            "email": "admin@gmail.com",
+            "password": "admin123"
+        }
+    ],
     "hotels": [
         {
             "name": "Andaz Delhi - a concept by Hyatt",
             "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/14000000/13240000/13235700/13235605/5be22f44_b.jpg",
             "location": "New Delhi",
-            "price": " 8,360",
-            "review": "4.5/5 Wonderful",
+            "price": 8360,
+            "review": 4.5,
             "description": "5-Star Luxury Lifestyle Hotel in Aerocity, New Delhi",
             "type" : "Villa",
             "id": "1"
@@ -14,8 +28,8 @@
             "name": "ITC Maurya,A Luxury Collection Hotel",
             "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/1000000/10000/3800/3793/7346ae5e_b.jpg",
             "location": "Chanakyapur",
-            "price": " 12,360",
-            "review": "4.4/5 Wonderful",
+            "price": 12360,
+            "review": 4.4,
             "type": "villa",
             "description": "A Tribute To The Golden Age Of The Mauryan Dynasty",
             "id": "2"
@@ -24,9 +38,9 @@
             "name": "Eros Hotel New Delhi, Nehru Place",
             "image": "https://images.trvl-media.com/hotels/1000000/70000/63600/63545/w2244h1752x0y56-cfe7840c.jpg",
             "location": "Nehru Place",
-            "price": " 11,600",
+            "price": 11600,
             "description": "Eros Hotel New Delhi Nehru Place is known for consistently delivering the finest Indian Hospitality experience over last 25 years. It offers contemporary design and comfort paired with Old World hospitality charm.",
-            "review": "3.8/5 Wonderful",
+            "review": 3.8,
             "type": "Resort",
             "id": "3"
         },
@@ -34,9 +48,9 @@
             "name": "Aloft New Delhi Aerocity",
             "image": "https://images.trvl-media.com/hotels/25000000/24410000/24408500/24408483/51f43bae.jpg",
             "location": "Aerocity",
-            "price": " 10,000",
+            "price": 10000,
             "description": "Relax in style at our hotel in Delhi near the airport offering modern luxury design, 24-hour dining, a spa, gym, pool and functional venues.",
-            "review": "4.3/5 Wonderful",
+            "review": 4.3,
             "type": "Resort",
             "id": "4"
         },
@@ -44,9 +58,9 @@
             "name": "Pullman New Delhi Aerocity Hotel",
             "image": "https://a.travel-assets.com/media/meso_cm/PAPI/Images/hotels/10000000/10000000/9994600/9994586/99a27f9a_b.jpg",
             "location": "Aerocity",
-            "price": " 9,000",
+            "price": 9000,
             "description": "The property features a Pullman Spa & Salon and an outdoor swimming pool, temperate controlled during winters.",
-            "review": "4.2/5 Wonderful",
+            "review": 4.2,
             "type": "Hot Tub",
             "id": "5"
         },
@@ -54,9 +68,9 @@
             "name": "Piccadily Hotel Manali",
             "image": "https://images.trvl-media.com/hotels/49000000/48950000/48946400/48946377/1eb7d78f.jpg",
             "location": "Manali",
-            "price": " 12,400",
+            "price": 12400,
             "description": "Piccadily Manali is part of The Piccadily Holiday Resorts Limited, a luxury hotel chain in India.",
-            "review": "4.6/5 Wonderful",
+            "review": 4.6,
             "type": "villa",
             "id": "6"
         },
@@ -64,9 +78,9 @@
             "name": "JW Marriott Mumbai Sahar",
             "image": "https://images.trvl-media.com/hotels/10000000/9790000/9784600/9784580/0114879f.jpg",
             "location": "Mumbai",
-            "price": " 15,500",
+            "price": 15500,
             "description": "Marriott International Inc (Marriott) is a hospitality service provider that operates hotels and restaurants. It operates, franchises, and licenses hotels, residential and timeshare properties under several luxury, premium, and select brand names.",
-            "review": "4.5/5 Wonderful",
+            "review": 4.5,
             "type": "Resort",
             "id": "7"
         },
@@ -74,9 +88,9 @@
             "name": "Treebo Tryst Sattva",
             "image": "https://images.trvl-media.com/hotels/84000000/83670000/83663400/83663364/6696e9cd.jpg",
             "location": "New Manali",
-            "price": " 2,350",
+            "price": 123500,
             "description": "The Treebo Tryst Sattva With Mountain View is located near popular tourist attractions such as Hidimba Devi Temple, Circuit House, and Himalayan Nyinmapa Tibetan Buddhist Monastery.",
-            "review": "4.0/5",
+            "review": 4.0,
             "type": "spa",
             "id": "8"
         },
@@ -84,9 +98,9 @@
             "name": "Mystique, a Luxury Collection Hotel, Santorini",
             "image": "https://lh6.googleusercontent.com/proxy/S1ElJDaHM5cBzQtCIqP03TQnyGfeiZ_g90zzV9ciVf7FNyl6y0g1eWEmAmGIRe8RKVsmQdIT-uMnTlkypGjZhDcsHGyoGLC9N9iVj_Jga63pDc36GbgD_jeML5PU4DGA6U1OkQNPgEaw-oGNr5tgHX9zZ7V0NA=w253-h142-k-no",
             "location": "Greece",
-            "price": " 88000",
+            "price": 188000,
             "description": "Set on a cliff overlooking the Santorini caldera in the Aegean Sea, this luxe hotel featuring traditional Cycladic architecture is a 14-minute walk from the village of Oia and 16 km from Santorini Airport.",
-            "review": "4.7/5",
+            "review": 4.7,
             "type": "Luxury",
             "id": "9"
         },
@@ -94,9 +108,9 @@
             "name": "Mandarin Oriental, Lago di Como",
             "image": "https://lh5.googleusercontent.com/p/AF1QipP26_WeD30BEcqQVW-HqPdIATrvUPOHzQR1jv3J=w253-h168-k-no",
             "location": "Italy",
-            "price": " 1249",
+            "price": 124900,
             "description": "In a chic 18-century complex overlooking Lake Como, this seasonal high-end hotel is 6 km from Como Cathedral. Posh, plush rooms offer free Wi-Fi, flat-screen TVs and minibars.",
-            "review": "4.8/5",
+            "review": 4.8,
             "type": "Luxury",
             "id": "10"
         },
@@ -104,9 +118,9 @@
             "name": "Aman Venice",
             "image": "https://lh5.googleusercontent.com/p/AF1QipNC0HPLE2fY9M9IYWYztggFxnrRV7D1fpXHEUzV=w253-h156-k-no",
             "location": "Venice",
-            "price": " 1899",
+            "price": 189900,
             "description": "Beside the Grand Canal in a 16th-century palace, this elegant hotel is a 2-minute walk from both a vaporetto stop and the Piazza San Marco.",
-            "review": "4.7/5",
+            "review": 4.1,
             "type": "Luxury",
             "id": "11"
         },
@@ -114,9 +128,9 @@
             "name": "Four Seasons Hotel Prague",
             "image": "https://lh6.googleusercontent.com/proxy/fjCcNWJPWkMwJsbxpQwtWUgS_qfnhxFKjIXo8vBcuGLMdcnJtT1Jg21t4vfkVuQB7XqKb5nKJdov3cusR5RN80Uz8TlNLJZKQ32CNe4Y9FKPJGAk5ScaRvn9dgGDofeMMN-v4xmnQbZO5BHLO0mOCHHB4APYOA=w253-h155-k-no",
             "location": "Prague",
-            "price": " 1080",
+            "price": 108000,
             "description": "In 3 Old Town buildings featuring Baroque and Renaissance styles, this refined, high-end hotel is less than a minute's walk from a metro station and 5 minutes on foot from the Charles Bridge.",
-            "review": "4.3/5",
+            "review": 4.1,
             "type": "Luxury",
             "id": "12"
         },
@@ -124,9 +138,9 @@
             "name": "Villa Igiea, a Rocco Forte Hotel",
             "image": "https://lh5.googleusercontent.com/p/AF1QipMJ_hPmQ97znh9eWF70iYFURUygAcDdtB1rwlXo=w253-h168-k-no",
             "location": "Italy",
-            "price": " 1121",
+            "price": 112100,
             "description": "On the coast of Palermo and overlooking the Mediterranean Sea, this upscale hotel is 4 km from both the opulent Teatro Massimo and the Gothic Palazzo Abatellis.",
-            "review": "4.1/5",
+            "review": 4.1,
             "type": "Luxury",
             "id": "13"
         },
@@ -134,9 +148,9 @@
             "name": "Splendido Mare, A Belmond Hotel, Portofino",
             "image": "https://lh5.googleusercontent.com/p/AF1QipOOdPrsJkpFDcnSjY0pXbFvKqBjmQdJwr1bQhxz=w253-h142-k-no",
             "location": "Italy",
-            "price": " 1199",
+            "price": 119090,
             "description": "Set among shops housed in colorful traditional buildings, this elegant seasonal hotel lies next to Portofino harbor. It's a 10-minute walk from the museum at the 16th-century Castello Brown, and 6 km from the train station.",
-            "review": "4.2/5",
+            "review": 4.2,
             "type": "Luxury",
             "id": "14"
         },
@@ -144,11 +158,42 @@
             "name": "Andronis Luxury Suites",
             "image": "https://lh3.googleusercontent.com/p/AF1QipNLItBZH6GO1oZL-iSxxUBwgpXTHhLIsD_DcbWI=w296-h202-n-k-rw-no-v1",
             "location": "Greece",
-            "price": " 999",
+            "price": 100999,
             "description": "Overlooking the Aegean Sea and a volcanic crater, this luxe all-suite hotel is 11 km from both the Santorini cable car and the Archaeological Museum of Thera.",
-            "review": "4.5/5",
+            "review": 4.5,
             "type": "Luxury",
             "id": "15"
-        }
+        },
+        {
+            "img":"https://images.trvl-media.com/hotels/1000000/610000/603200/603151/3a97725a.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"NH Collection Genova Marina",
+            "location":"Genoa",
+            "price":17000,
+            "description": "The property features a Pullman Spa & Salon and an outdoor swimming pool, temperate controlled during winters.",
+            "review":4.4,
+            "type":"Royal",
+            "id": "16"
+ 
+         },
+         {
+            "img":"https://images.trvl-media.com/hotels/1000000/20000/19400/19357/148f052c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"Hotel Europa",
+            "location":"Pre",
+            "price":1500,
+            "description": "In a chic 18-century complex overlooking Lake Como, this seasonal high-end hotel is 6 km from Como Cathedral. Posh, plush rooms offer free Wi-Fi, flat-screen TVs and minibars.",
+            "review":3.6,
+            "type":"Royal",
+            "id": "17"
+         },
+         {
+            "img":"https://images.trvl-media.com/hotels/18000000/17410000/17408400/17408307/e98dddf9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "name":"Hotel Palazzo Grillo",
+            "location":"Genoa Historical Centre",
+            "price":25000,
+            "description": "Relax in style at our hotel in Delhi near the airport offering modern luxury design, 24-hour dining, a spa, gym, pool and functional venues.",
+            "review":4.7,
+            "type":"Royal",
+            "id": "18"
+         }
     ]
 }
