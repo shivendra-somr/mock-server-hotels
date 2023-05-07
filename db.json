@@ -21,6 +21,7 @@
             "price": 8360,
             "review": 4.5,
             "description": "5-Star Luxury Lifestyle Hotel in Aerocity, New Delhi",
+            "conveniences": ["Outdoor Swimming Pool","Pets allowed","WiFi","parking","Air conditioning","Spa"],
             "type" : "Villa",
             "id": "1"
         },
@@ -31,6 +32,7 @@
             "price": 12360,
             "review": 4.4,
             "type": "villa",
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "description": "A Tribute To The Golden Age Of The Mauryan Dynasty",
             "id": "2"
         },
@@ -41,6 +43,7 @@
             "price": 11600,
             "description": "Eros Hotel New Delhi Nehru Place is known for consistently delivering the finest Indian Hospitality experience over last 25 years. It offers contemporary design and comfort paired with Old World hospitality charm.",
             "review": 3.8,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Resort",
             "id": "3"
         },
@@ -51,6 +54,7 @@
             "price": 10000,
             "description": "Relax in style at our hotel in Delhi near the airport offering modern luxury design, 24-hour dining, a spa, gym, pool and functional venues.",
             "review": 4.3,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Resort",
             "id": "4"
         },
@@ -61,6 +65,7 @@
             "price": 9000,
             "description": "The property features a Pullman Spa & Salon and an outdoor swimming pool, temperate controlled during winters.",
             "review": 4.2,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Hot Tub",
             "id": "5"
         },
@@ -81,6 +86,7 @@
             "price": 15500,
             "description": "Marriott International Inc (Marriott) is a hospitality service provider that operates hotels and restaurants. It operates, franchises, and licenses hotels, residential and timeshare properties under several luxury, premium, and select brand names.",
             "review": 4.5,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Resort",
             "id": "7"
         },
@@ -88,9 +94,10 @@
             "name": "Treebo Tryst Sattva",
             "image": "https://images.trvl-media.com/hotels/84000000/83670000/83663400/83663364/6696e9cd.jpg",
             "location": "New Manali",
-            "price": 123500,
+            "price": 23500,
             "description": "The Treebo Tryst Sattva With Mountain View is located near popular tourist attractions such as Hidimba Devi Temple, Circuit House, and Himalayan Nyinmapa Tibetan Buddhist Monastery.",
             "review": 4.0,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "spa",
             "id": "8"
         },
@@ -98,9 +105,10 @@
             "name": "Mystique, a Luxury Collection Hotel, Santorini",
             "image": "https://lh6.googleusercontent.com/proxy/S1ElJDaHM5cBzQtCIqP03TQnyGfeiZ_g90zzV9ciVf7FNyl6y0g1eWEmAmGIRe8RKVsmQdIT-uMnTlkypGjZhDcsHGyoGLC9N9iVj_Jga63pDc36GbgD_jeML5PU4DGA6U1OkQNPgEaw-oGNr5tgHX9zZ7V0NA=w253-h142-k-no",
             "location": "Greece",
-            "price": 188000,
+            "price": 18800,
             "description": "Set on a cliff overlooking the Santorini caldera in the Aegean Sea, this luxe hotel featuring traditional Cycladic architecture is a 14-minute walk from the village of Oia and 16 km from Santorini Airport.",
             "review": 4.7,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "9"
         },
@@ -108,9 +116,10 @@
             "name": "Mandarin Oriental, Lago di Como",
             "image": "https://lh5.googleusercontent.com/p/AF1QipP26_WeD30BEcqQVW-HqPdIATrvUPOHzQR1jv3J=w253-h168-k-no",
             "location": "Italy",
-            "price": 124900,
+            "price": 24900,
             "description": "In a chic 18-century complex overlooking Lake Como, this seasonal high-end hotel is 6 km from Como Cathedral. Posh, plush rooms offer free Wi-Fi, flat-screen TVs and minibars.",
             "review": 4.8,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "10"
         },
@@ -118,9 +127,10 @@
             "name": "Aman Venice",
             "image": "https://lh5.googleusercontent.com/p/AF1QipNC0HPLE2fY9M9IYWYztggFxnrRV7D1fpXHEUzV=w253-h156-k-no",
             "location": "Venice",
-            "price": 189900,
+            "price": 18990,
             "description": "Beside the Grand Canal in a 16th-century palace, this elegant hotel is a 2-minute walk from both a vaporetto stop and the Piazza San Marco.",
             "review": 4.1,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "11"
         },
@@ -128,9 +138,10 @@
             "name": "Four Seasons Hotel Prague",
             "image": "https://lh6.googleusercontent.com/proxy/fjCcNWJPWkMwJsbxpQwtWUgS_qfnhxFKjIXo8vBcuGLMdcnJtT1Jg21t4vfkVuQB7XqKb5nKJdov3cusR5RN80Uz8TlNLJZKQ32CNe4Y9FKPJGAk5ScaRvn9dgGDofeMMN-v4xmnQbZO5BHLO0mOCHHB4APYOA=w253-h155-k-no",
             "location": "Prague",
-            "price": 108000,
+            "price": 28000,
             "description": "In 3 Old Town buildings featuring Baroque and Renaissance styles, this refined, high-end hotel is less than a minute's walk from a metro station and 5 minutes on foot from the Charles Bridge.",
             "review": 4.1,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "12"
         },
@@ -138,9 +149,10 @@
             "name": "Villa Igiea, a Rocco Forte Hotel",
             "image": "https://lh5.googleusercontent.com/p/AF1QipMJ_hPmQ97znh9eWF70iYFURUygAcDdtB1rwlXo=w253-h168-k-no",
             "location": "Italy",
-            "price": 112100,
+            "price": 22100,
             "description": "On the coast of Palermo and overlooking the Mediterranean Sea, this upscale hotel is 4 km from both the opulent Teatro Massimo and the Gothic Palazzo Abatellis.",
             "review": 4.1,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "13"
         },
@@ -148,9 +160,10 @@
             "name": "Splendido Mare, A Belmond Hotel, Portofino",
             "image": "https://lh5.googleusercontent.com/p/AF1QipOOdPrsJkpFDcnSjY0pXbFvKqBjmQdJwr1bQhxz=w253-h142-k-no",
             "location": "Italy",
-            "price": 119090,
+            "price": 21900,
             "description": "Set among shops housed in colorful traditional buildings, this elegant seasonal hotel lies next to Portofino harbor. It's a 10-minute walk from the museum at the 16th-century Castello Brown, and 6 km from the train station.",
             "review": 4.2,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "14"
         },
@@ -158,40 +171,44 @@
             "name": "Andronis Luxury Suites",
             "image": "https://lh3.googleusercontent.com/p/AF1QipNLItBZH6GO1oZL-iSxxUBwgpXTHhLIsD_DcbWI=w296-h202-n-k-rw-no-v1",
             "location": "Greece",
-            "price": 100999,
+            "price": 30999,
             "description": "Overlooking the Aegean Sea and a volcanic crater, this luxe all-suite hotel is 11 km from both the Santorini cable car and the Archaeological Museum of Thera.",
             "review": 4.5,
             "type": "Luxury",
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "id": "15"
         },
         {
-            "img":"https://images.trvl-media.com/hotels/1000000/610000/603200/603151/3a97725a.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "img":"https://images.trvl-media.com/hotels/1000000/610000/603200/603151/3a97725a.jpg",
             "name":"NH Collection Genova Marina",
             "location":"Genoa",
             "price":17000,
             "description": "The property features a Pullman Spa & Salon and an outdoor swimming pool, temperate controlled during winters.",
             "review":4.4,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type":"Royal",
             "id": "16"
  
          },
          {
-            "img":"https://images.trvl-media.com/hotels/1000000/20000/19400/19357/148f052c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "img":"https://images.trvl-media.com/hotels/1000000/20000/19400/19357/148f052c.jpg",
             "name":"Hotel Europa",
             "location":"Pre",
-            "price":1500,
+            "price":15000,
             "description": "In a chic 18-century complex overlooking Lake Como, this seasonal high-end hotel is 6 km from Como Cathedral. Posh, plush rooms offer free Wi-Fi, flat-screen TVs and minibars.",
             "review":3.6,
+            "conveniences":["Mountain View","City View","Pet Friendly","Air conditioning","TV","Wi-Fi","Bath Tub"],
             "type":"Royal",
             "id": "17"
          },
          {
-            "img":"https://images.trvl-media.com/hotels/18000000/17410000/17408400/17408307/e98dddf9.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "img":"https://images.trvl-media.com/hotels/18000000/17410000/17408400/17408307/e98dddf9.jpg",
             "name":"Hotel Palazzo Grillo",
             "location":"Genoa Historical Centre",
             "price":25000,
             "description": "Relax in style at our hotel in Delhi near the airport offering modern luxury design, 24-hour dining, a spa, gym, pool and functional venues.",
             "review":4.7,
+            "conveniences":["Terrace","TV","Wi-Fi","Bath Tub"],
             "type":"Royal",
             "id": "18"
          }
