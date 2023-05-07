@@ -212,5 +212,43 @@
             "type":"Royal",
             "id": "18"
          }
+    ],
+    "booking":[
+        {
+            "id": 1,
+            "name":"Gaurav Raj",
+            "contact": 1234567890,
+            "Proof":"Pan Card",
+            "CheckIn":"04-05-2023",
+            "CheckOut":"06-05-2023",
+            "room":"Double Bed",
+            "guest":5,
+            "bill":8000,
+            "status": "Booked"
+        },
+        {
+            "id": 2,
+            "name":"Badri Vishal Singh",
+            "contact": 1234567890,
+            "Proof":"Aadhar",
+            "CheckIn":"05-05-2023",
+            "CheckOut":"09-05-2023",
+            "room":"Single Bed",
+            "guest":2,
+            "bill":9000,
+            "status": "Pending"
+        },
+        {
+            "id": 3,
+            "name":"Gaurav Raj",
+            "contact": 9804567890,
+            "Proof":"Driving License",
+            "CheckIn":"04-05-2023",
+            "CheckOut":"06-05-2023",
+            "room":"King Size Bed",
+            "guest":2,
+            "bill":4000,
+            "status": "Booked"
+        }
     ]
 }
