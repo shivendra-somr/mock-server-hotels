@@ -21,7 +21,7 @@
             "price": 8360,
             "review": 4.5,
             "description": "5-Star Luxury Lifestyle Hotel in Aerocity, New Delhi",
-            "conveniences": ["Outdoor Swimming Pool","Pets allowed","WiFi","parking","Air conditioning","Spa"],
+            "conveniences": ["Disabled","Outdoor Swimming Pool","Pets allowed","WiFi","parking","Air conditioning","Spa"],
             "type" : "Villa",
             "id": "1"
         },
@@ -32,7 +32,7 @@
             "price": 12360,
             "review": 4.4,
             "type": "villa",
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "description": "A Tribute To The Golden Age Of The Mauryan Dynasty",
             "id": "2"
         },
@@ -54,7 +54,7 @@
             "price": 10000,
             "description": "Relax in style at our hotel in Delhi near the airport offering modern luxury design, 24-hour dining, a spa, gym, pool and functional venues.",
             "review": 4.3,
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Resort",
             "id": "4"
         },
@@ -65,7 +65,7 @@
             "price": 9000,
             "description": "The property features a Pullman Spa & Salon and an outdoor swimming pool, temperate controlled during winters.",
             "review": 4.2,
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Hot Tub",
             "id": "5"
         },
@@ -76,6 +76,7 @@
             "price": 12400,
             "description": "Piccadily Manali is part of The Piccadily Holiday Resorts Limited, a luxury hotel chain in India.",
             "review": 4.6,
+            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "villa",
             "id": "6"
         },
@@ -108,7 +109,7 @@
             "price": 18800,
             "description": "Set on a cliff overlooking the Santorini caldera in the Aegean Sea, this luxe hotel featuring traditional Cycladic architecture is a 14-minute walk from the village of Oia and 16 km from Santorini Airport.",
             "review": 4.7,
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "9"
         },
@@ -130,7 +131,7 @@
             "price": 18990,
             "description": "Beside the Grand Canal in a 16th-century palace, this elegant hotel is a 2-minute walk from both a vaporetto stop and the Piazza San Marco.",
             "review": 4.1,
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "11"
         },
@@ -152,7 +153,7 @@
             "price": 22100,
             "description": "On the coast of Palermo and overlooking the Mediterranean Sea, this upscale hotel is 4 km from both the opulent Teatro Massimo and the Gothic Palazzo Abatellis.",
             "review": 4.1,
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type": "Luxury",
             "id": "13"
         },
@@ -179,36 +180,36 @@
             "id": "15"
         },
         {
-            "img":"https://images.trvl-media.com/hotels/1000000/610000/603200/603151/3a97725a.jpg",
+            "img":"https://img.nh-hotels.net/PLjP8/G9ZZO/original/F_NH_collection-marina_098.jpg",
             "name":"NH Collection Genova Marina",
             "location":"Genoa",
             "price":17000,
             "description": "The property features a Pullman Spa & Salon and an outdoor swimming pool, temperate controlled during winters.",
             "review":4.4,
-            "conveniences":["Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Swimming Pool","Spa","TV","Wi-Fi","Bath Tub"],
             "type":"Royal",
             "id": "16"
  
          },
          {
-            "img":"https://images.trvl-media.com/hotels/1000000/20000/19400/19357/148f052c.jpg",
+            "img":"https://media-cdn.tripadvisor.com/media/photo-s/07/c8/b2/b2/europa-hotel-belfast.jpg",
             "name":"Hotel Europa",
             "location":"Pre",
             "price":15000,
             "description": "In a chic 18-century complex overlooking Lake Como, this seasonal high-end hotel is 6 km from Como Cathedral. Posh, plush rooms offer free Wi-Fi, flat-screen TVs and minibars.",
-            "review":3.6,
+            "review":4.6,
             "conveniences":["Mountain View","City View","Pet Friendly","Air conditioning","TV","Wi-Fi","Bath Tub"],
             "type":"Royal",
             "id": "17"
          },
          {
-            "img":"https://images.trvl-media.com/hotels/18000000/17410000/17408400/17408307/e98dddf9.jpg",
+            "img":"https://www.vimar.com/cache/images/content-waterfall/w540h0q75/vimar-hotel-palazzo-grillo-0004-65ac626.webp",
             "name":"Hotel Palazzo Grillo",
             "location":"Genoa Historical Centre",
             "price":25000,
             "description": "Relax in style at our hotel in Delhi near the airport offering modern luxury design, 24-hour dining, a spa, gym, pool and functional venues.",
             "review":4.7,
-            "conveniences":["Terrace","TV","Wi-Fi","Bath Tub"],
+            "conveniences":["Disabled","Terrace","TV","Wi-Fi","Bath Tub"],
             "type":"Royal",
             "id": "18"
          }
