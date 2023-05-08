@@ -2,13 +2,13 @@
     "users":[
         {
             "id":1,
-            "username":"gaurav",
+            "name":"gaurav",
             "email":"gauravraj2601@gmail.com",
             "password":"gaurav123"
         },
         {
             "id":2,
-            "username": "admin",
+            "name": "admin",
             "email": "admin@gmail.com",
             "password": "admin123"
         }
